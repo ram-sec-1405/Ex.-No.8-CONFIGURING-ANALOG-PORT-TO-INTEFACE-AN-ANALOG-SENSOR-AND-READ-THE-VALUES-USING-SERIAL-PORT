@@ -440,8 +440,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1608" height="1052" alt="PMC EX 08 A" src="https://github.com/user-attachments/assets/fa95a50d-c83a-4916-af92-11d4c7f234a7" />
 
-![Uploading ex-8-output.png…]()
-
+<img width="960" height="1280" alt="ex-8-output" src="https://github.com/user-attachments/assets/72cebd7d-10db-4fa7-a022-a132687638d5" />
 
 
 
